@@ -1785,6 +1785,9 @@ input, select, textarea {
 		.row > section, .row > article {
 			margin-bottom: 0;
 		}
+	.portfolio two {
+		padding-bottom: 50px;
+}
 
 /* Image */
 
@@ -2300,7 +2303,7 @@ input, select, textarea {
 
 			#main > section.two {
 				background-color: #b7bdbd;
-				padding-bottom: 50px;
+				
 			}
 
 			#main > section.three {
@@ -2337,7 +2340,7 @@ input, select, textarea {
 
 			#main {
 				margin-left: 300px;
-				padding-bottom: 100px;
+
 			}
 
 	}
@@ -2353,7 +2356,7 @@ input, select, textarea {
 			}
 
 			#main section.cover {
-				padding: 5em 0;
+				padding: 3em 0;
 			}
 
 	}
@@ -2421,7 +2424,7 @@ input, select, textarea {
 
 			#main {
 				margin-left: 20%;
-				padding-bottom: 100px;
+				
 			}
 
 	}
@@ -2616,7 +2619,7 @@ input, select, textarea {
 			}
 
 				#main > section {
-					padding: 5em 0;
+					padding: 3em 0;
 					
 				}
 
@@ -2656,7 +2659,7 @@ input, select, textarea {
 		/* Main */
 
 			#main > section {
-				padding: 4em 0;
+				padding: 3em 0;
 			}
 
 			#main section.cover {
