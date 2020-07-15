@@ -2300,6 +2300,7 @@ input, select, textarea {
 
 			#main > section.two {
 				background-color: #b7bdbd;
+				padding-bottom: 50px;
 			}
 
 			#main > section.three {
